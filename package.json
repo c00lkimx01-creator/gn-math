@@ -1,0 +1,9 @@
+{
+  "name": "gn-math-static",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'static site - nothing to build'"
+  }
+}
